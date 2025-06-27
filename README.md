@@ -4,8 +4,10 @@ BLEACH Hentai UI-X2 Themes for Windows 10 19H1-22H2
 
 ![][PREVIEW]
 
-This theme was built using the UI-X2 MSSTYLES for Windows 10 19H1-22H2 by [devillnside][DEVILLNSIDE]   
-You can find the UI-X2 theme here: [UI-X2 Theme for Windows 10 19H1-22H2][ORIGINAL]
+> [!NOTE]
+> This theme was built using the UI-X2 MSSTYLES for Windows 10 19H1-22H2 by [devillnside][DEVILLNSIDE]   
+> 
+> You can find the UI-X2 theme here: [UI-X2 Theme for Windows 10 19H1-22H2][ORIGINAL]
 
 > [!IMPORTANT]
 > Custom Visual Styles are for advanced users who know how to properly patch their system files to run unsigned themes. 
