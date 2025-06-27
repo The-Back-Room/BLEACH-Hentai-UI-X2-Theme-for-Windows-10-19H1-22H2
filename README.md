@@ -38,7 +38,7 @@ You can find the UI-X2 theme here: [UI-X2 Theme for Windows 10 19H1-22H2][ORIGIN
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
-[PREVIEW]: https://the-back-room.info/assets/images/themes/nsfw/msstyle/BLEACH-HENTAI-UI-X2.png
+[PREVIEW]: https://github.com/user-attachments/assets/c84d9560-7ab3-438b-a3c0-3701795f2591
 
 [WINDHAWK]: https://windhawk.net/
 
