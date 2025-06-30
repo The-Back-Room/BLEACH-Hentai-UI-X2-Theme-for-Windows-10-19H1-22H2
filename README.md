@@ -1,6 +1,10 @@
 BLEACH Hentai Theme for Windows 10 19H1-22H2
 ============================
 
+> [!NOTE]
+> This page is for adults **ONLY**. By being on this page you are agreeing that you are of legal age to be here.
+> 
+> We take **NO** responisbility for anyone who violates this rule. You are responsible for you're own actions.
 
 > [!IMPORTANT]
 > Custom Visual Styles are for advanced users who know how to properly patch their system files to run unsigned themes. 
